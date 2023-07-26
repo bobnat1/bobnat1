@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @bobnat1
-- 👀 I’m interested in building and developing new and exciting projects!
-- 🌱 I’m currently learning Python, C, HTML, & CSS in my spare time. Also a little CS
-- 💞️ I’m looking to collaborate on future projects and ideas - Ideally I'd like to recieve any feedback in general. I'm always looking to improve!
-- 📫 How to reach me - natehusser@gmail.com
+# Hello. I am Nate, a.k.a bobnat1
 
-<!---
-bobnat1/bobnat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Java based full-stack developer. I like to write web applications as well as static websites. I'm also on the deep end when it comes to anything Linux, as my main rig right now is running Arch. I'm the type of guy to create a Windows VM with a GPU pass-through to play some of my games.
